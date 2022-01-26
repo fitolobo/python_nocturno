@@ -7,4 +7,4 @@ Aprendiendo Python! :D
 - Números y operatorias.
 - Definir una función escalar (fue solo usando números).
 - Tipos de datos: listas, diccionarios, vectores y matrices.
-- instalación usando pip, foro y documentación. 
+- Instalación usando pip, foro y documentación. 
