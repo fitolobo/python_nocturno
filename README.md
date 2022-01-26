@@ -8,3 +8,11 @@ Aprendiendo Python! :D
 - Definir una función escalar (fue solo usando números).
 - Tipos de datos: listas, diccionarios, vectores y matrices.
 - Instalación usando pip, foro y documentación. 
+
+
+### Clase 2.
+
+- Ciclos: for-while
+- Condiciones: if-else
+- Ciclos + Condiciones
+- Funcion con todo lo anterior.
