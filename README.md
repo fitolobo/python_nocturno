@@ -1,5 +1,5 @@
 # python_nocturno
-Aprendiendo Python! :D
+Revisión rápida de conceptos y tipos de datos utilizados en python. 
 
 
 ### Clase 1. 26/01/2022
