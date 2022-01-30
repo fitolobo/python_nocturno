@@ -12,7 +12,8 @@ Revisión rápida de conceptos y tipos de datos utilizados en python.
 
 ### Clase 2. 30/01/2022
 
-- Ciclos: for-while
+- Ciclos: for
+- pandas
 - Condiciones: if-else
 - Ciclos + Condiciones
 - Funcion con todo lo anterior.
