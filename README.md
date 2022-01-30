@@ -10,7 +10,7 @@ Revisión rápida de conceptos y tipos de datos utilizados en python.
 - Instalación usando pip, foro y documentación. 
 
 
-### Clase 2.
+### Clase 2. 30/01/2022
 
 - Ciclos: for-while
 - Condiciones: if-else
