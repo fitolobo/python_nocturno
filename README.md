@@ -19,4 +19,4 @@ Revisión rápida de conceptos y tipos de datos utilizados en python.
 ### Clase 3. 01/02/2022
 
 - Repasamos velozmente tipos de datos.
--Terminamos el problema de los excel.
+- Terminamos el problema de los excel.
