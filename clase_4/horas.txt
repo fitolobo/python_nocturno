@@ -1,0 +1,4 @@
+2022-02-06 08:30:00
+['Sun-06-Feb', 'TENGOSE', -6.46]
+['Sun-06-Feb', 'TENGOSE', -6.43]
+['Sun-06-Feb', 'TENGOSE', -6.43]
