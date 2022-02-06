@@ -20,3 +20,9 @@ Revisión rápida de conceptos y tipos de datos utilizados en python.
 
 - Repasamos velozmente tipos de datos.
 - Terminamos el problema de los excel.
+
+### Clase 4. 06/02/2022
+- Matplotlib
+- Funciones de funciones
+- Listas de funciones
+- Y algo de clases.
