@@ -26,3 +26,7 @@ Revisión rápida de conceptos y tipos de datos utilizados en python.
 - Funciones de funciones
 - Listas de funciones
 - Y algo de clases.
+
+
+### Clase 5 22/02/2022
+-Clases 
